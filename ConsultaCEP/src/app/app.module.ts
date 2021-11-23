@@ -4,7 +4,6 @@ import { AppRoutingModule } from './app-routing.module';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { NgxMaskModule, IConfig } from 'ngx-mask';
-
 import { AppComponent } from './app.component';
 import { LoginComponent } from './pages/login/login.component';
 import { ConsultaComponent } from './pages/consulta/consulta.component';
